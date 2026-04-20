@@ -2,6 +2,8 @@
 
 ## 🎯 Contexto e Objetivos
 
+Este projeto foi realizado com a intenção de aprender **fundamentos de IA**, utilizando o **NotebookLM** para formular um miniguia de estudos.
+
 O assunto de interesse escolhido para este caderno temático é a **Arquitetura Moderna de Desenvolvimento Fullstack e DevOps**, com foco no ecossistema **Java (Spring Boot)** para o back-end, **Angular** para o front-end web (SPA), e **Docker** com CI/CD para a infraestrutura e orquestração. 
 
 O modelo tradicional de aplicações web, onde o servidor renderiza telas HTML, evoluiu para uma arquitetura moderna na qual front-end e back-end são sistemas desacoplados que se comunicam exclusivamente via APIs RESTful trafegando dados em formato JSON.
@@ -79,3 +81,24 @@ Copie e cole os prompts abaixo no NotebookLM (ou em seu assistente de IA) para c
 2. **Desafio de Segurança (JWT):** *"Elabore um quiz de 5 perguntas de múltipla escolha focado exclusivamente nas melhores práticas de segurança com Spring Security e JWT, com base nos meus documentos. Forneça o gabarito no final."*
 3. **Simulação de DevOps (Docker):** *"Gere um exemplo prático de um arquivo `docker-compose.yml` que orquestre um banco PostgreSQL, uma API Spring Boot e um frontend Angular servido pelo Nginx. Adicione comentários no código explicando o que faz o 'depends_on' e como a comunicação interna das portas funciona."*
 4. **Revisão de Erros de Rede:** *"Aja como um desenvolvedor Sênior. Meu frontend Angular na porta 4200 está recebendo 'CORS error' ao tentar fazer um POST na minha API Spring Boot na porta 8080. Explique por que isso ocorre e me dê 2 soluções possíveis para resolver o problema."*
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+  <img src="https://github.com/kauavictorss.png" width="150px" style="border-radius: 50%;" alt="Kauã Victor"/>
+  <br>
+  <h1>Kauã Victor Silva dos Santos</h1>
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauavictorss)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-victor-santos/)
+</div>
+
+---
+
+## 🎓 Certificação DIO
+
+Projeto desenvolvido como parte do Bootcamp **CI&T - Do Prompt ao Agente** no módulo de **Fundamentos de IA**, da **[Digital Innovation One (DIO)](https://www.dio.me)**.
+
+[![Certificado DIO](https://img.shields.io/badge/Certificado-DIO-ef4444?style=for-the-badge&logo=douban)](https://www.dio.me/certificate/HNZD5RE5/share)
